@@ -1,7 +1,7 @@
 <h1>Comprehensive Options Pricer</h1>
 
 <h2>Description</h2>
-
+This project is a collection of essential tools for options analysis and valuation, including implementations of the Black-Scholes model, the binomial asset pricing model, and Monte Carlo simulation. These methods are encapsulated in the Options class, providing an intuitive interface for pricing and valuation. My goal is to continuously enhance this project by adding new functionalities and expanding its capabilities over time.
 <br />
 
 <h2>Languages Used</h2>
@@ -14,19 +14,7 @@
 1.) Make sure all packages are installed and loaded. <br/>
 
 <br />
-2.) Download the loan data csv file (accepted_2007_to_2018q4.csv) from the link: https://www.kaggle.com/datasets/wordsforthewise/lending-club/data. <br/>
-
-<br />
-3.) After the data is downloaded, upload the data into a DB Browser SQLite database and title the table it creates "accepted". <br/>
-
-<br />
-3.) With the data loaded into the database and the table named correctly, copy the file path of the database on your machine and replace it with the file path you see in the "dbConnect" function. More specifically, this will passed to the the "dbname" argument in the "dbConnect" function. Do this for all the code files. <br/>
-
-<br />
-4.) First, run the file "Clean_data.qmd" as it will prepare the data that will ultimately be used in the rest of the analysis. Next, run the "Final Project.qmd" file where the main analysis is conducted. All the results should load and appear once the previous steps are fulfilled. <br/>
-
-<br />
-Note: The Rnw file is provided for reference, rendering it will produce the pdf already available in the repository. <br/>
+2.) Run the file and test out the functionalities and valuation methods. Some example cases are provided in the Python file. <br/>
 
 </p>
 
